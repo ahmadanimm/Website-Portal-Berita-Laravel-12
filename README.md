@@ -89,7 +89,7 @@
     php artisan storage:link
     ```
     
-10. Buka cmd dan install depedency NPM
+10. Buka cmd, masuk ke direktori proyek Website-Portal-Berita-Laravel-12 dan install depedency NPM
 
     ```bash
     npm install
