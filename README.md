@@ -39,7 +39,7 @@
 2. Masuk ke direktori proyek
     
     ```bash
-    cd Portal-Berita
+    cd Website-Portal-Berita-Laravel-12
     ```
 
 3. Install dependency composer
