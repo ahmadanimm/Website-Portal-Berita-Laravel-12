@@ -33,13 +33,13 @@
 1. Clone repository
     
     ```bash
-    git clone https://github.com/ahmadanimm/Website-Portal-Berita-Laravel-12.git
+    git clone https://github.com/ahmadanimm/Website-Portal-Berita-Laravel.git
     ```
 
 2. Masuk ke direktori proyek
     
     ```bash
-    cd Website-Portal-Berita-Laravel-12
+    cd Website-Portal-Berita-Laravel
     ```
 
 3. Install dependency composer
